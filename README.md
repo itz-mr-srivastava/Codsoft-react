@@ -1,2 +1,2 @@
-# react-portfolio
+# Codsoft-react
 codsoft internship task
